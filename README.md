@@ -25,6 +25,7 @@ Start the lab by running `learn test` or keep reading for more instructions.
 Try using a Rake task to create your migration file:
 
 ```console
+
 $ bundle exec rake db:create_migration NAME=create_movies
 ```
 
